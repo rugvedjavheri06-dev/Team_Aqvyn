@@ -3,7 +3,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Tests: 26 Passing](https://img.shields.io/badge/tests-26%20passing-brightgreen.svg)](tests/)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-success.svg)](https://agentx-paper-trader.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-success.svg)](https://teamaqvyn-frontend.vercel.app)
 [![Backend API](https://img.shields.io/badge/Backend%20API-Render-informational.svg)](https://team-aqvyn.onrender.com)
 
 > **Official Final Submission for AgentX Hackathon 2026**  
@@ -16,7 +16,7 @@
 
 | Resource | URL | Details |
 |---|---|---|
-| 🌐 **Live Web Dashboard** | [agentx-paper-trader.vercel.app](https://agentx-paper-trader.vercel.app) | Production web dashboard (Vercel) |
+| 🌐 **Live Web Dashboard** | [teamaqvyn-frontend.vercel.app](https://teamaqvyn-frontend.vercel.app) | Production web dashboard (Vercel) |
 | 🐍 **Backend API Service** | [team-aqvyn.onrender.com](https://team-aqvyn.onrender.com) | FastAPI / HTTP SSE backend (Render) |
 | ⚡ **Local One-Click Run** | [`RUN_LIVE_DEMO.bat`](RUN_LIVE_DEMO.bat) | Self-contained Windows live demo with real LLM |
 
